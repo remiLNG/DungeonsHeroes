@@ -1,0 +1,49 @@
+.howtoplay {
+    
+    .tableMobs {
+        background-color: white !important;
+        font-family: dungeon !important;   
+        font-size: 1.5em !important;
+    
+    };
+
+    .tablePlayer {
+        background-color: white !important;
+        font-family: dungeon !important;   
+        font-size: 1.5em !important
+    
+    };
+
+
+    .but {
+        padding-top: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 1.5em;
+    };
+
+    .card {
+        margin-left: auto;
+        margin-right: auto; 
+        margin-top: 5em;  
+        margin-bottom: 2.5em;
+        font-family: dungeon !important;
+    };
+
+    .card-body {
+        padding: 0 !important; 
+        font-size: 1.2em;
+    }
+
+    .react-bs-table table td {
+        white-space: normal;
+        text-align: center !important;
+    };
+
+    .table thead th {
+        text-align: center !important;
+    }
+
+};
+
+
